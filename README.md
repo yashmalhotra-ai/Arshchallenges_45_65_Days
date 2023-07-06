@@ -11,4 +11,4 @@ You can keep track of my progress
 GitHub: https://github.com/yashmalhotra-ai/Arshchallenges_45_65_Days.git
 
 DSA Sheet Link:
-https://docs.google.com/spreadsheets/d/1r35qSXY6rSAonFbPEKB_KXUvpCIBbVGMp5001MaNb3c/edit#gid=0
+https://docs.google.com/spreadsheets/d/1Myk0O1YNwHUk9sr-CA_1FtqA7ai9rktf58K4v3JeShA/edit#gid=0
